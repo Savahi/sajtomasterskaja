@@ -21,6 +21,8 @@
 	<style>
 		body { padding-top:50px; }
 
+		.page-header { padding-left:2%; padding-right:2%; }
+
 		.myWithTopMargin { margin-top:1%; }
 	</style>
 
